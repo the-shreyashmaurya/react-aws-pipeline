@@ -3,7 +3,7 @@
 <p align="center"> 
 
   <img src="./readme-banner.png">
-</p>
+</p> 
 
 ## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
 
